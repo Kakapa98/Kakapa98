@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mofokeng Mpho username(@Kakapa98)
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning software Engeneering 
+- 👀 I’m interested in Software Development and Quality Assurance
+- 🌱 I’m completed Software Engeneering @WeThinkCode 
 - 💞️ I’m looking to collaborate on programing
 - 📫 How to reach me send an email at alphios988@gmail.com
 
